@@ -1,7 +1,7 @@
 # FineViP
 **FineViP** is a **Fine**-grained, multi-label **Vi**sual **P**rivacy dataset designed to support research on visual privacy protection. 
 
-You can also download the dataset from [Google Drive](https://drive.google.com/drive/folders/19aAviYJdiVtoKSAjssYNr-qu8TmIFgAJ?usp=drive_link).
+You can also download the dataset from [Google Drive](https://drive.google.com/drive/folders/1Xi0VzC5551ib-BIc_mOUTPn1SrE0NMOi?usp=drive_link).
 
 ## Images
 The images in this dataset are collected from existing privacy datasets [1-3], as well as public sources such as Flickr, Instagram, and Bing Search Engine, to ensure diversity and comprehensive coverage of privacy categories.
