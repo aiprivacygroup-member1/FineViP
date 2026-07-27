@@ -1,0 +1,24 @@
+label,positive_samples
+Public,2659
+Personal Information-H,1123
+Financial Information-H,863
+Sensitive Behaviors-H,1064
+Health Condition-H,487
+Sensitive Location-H,779
+Sensitive Relationships-H,3728
+Sensitive Occupations-H,1439
+Religious Beliefs-H,1115
+Sensitive Interests-H,1470
+Personal Space-H,666
+Minors-H,4765
+Personal Information-L,3214
+Financial Information-L,1527
+Sensitive Behaviors-L,1728
+Health Condition-L,1173
+Sensitive Location-L,1509
+Sensitive Relationships-L,3007
+Sensitive Occupations-L,1816
+Religious Beliefs-L,296
+Sensitive Interests-L,2222
+Personal Space-L,964
+Minors-L,579
