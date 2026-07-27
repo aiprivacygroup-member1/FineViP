@@ -2,7 +2,7 @@
 
 **FineViP** is a **Fine**-grained, multi-label **Vi**sual **P**rivacy dataset for studying privacy-sensitive visual content. It provides category-risk annotations that capture not only whether an image contains privacy-related information, but also what kind of privacy concern is visible and how sensitive the visual evidence is.
 
-The dataset contains **24,783 annotated images**, covering **one Public label** and **22 fine-grained privacy labels** formed by 11 privacy categories with High- and Low-risk levels.
+The dataset contains **24,783 annotated images** and **23 labels**, including **1 Public label** and **22 fine-grained privacy labels** formed by 11 privacy categories with High- and Low-risk levels.
 
 You can also download the dataset resources from [Google Drive](https://drive.google.com/drive/folders/19aAviYJdiVtoKSAjssYNr-qu8TmIFgAJ?usp=drive_link).
 
