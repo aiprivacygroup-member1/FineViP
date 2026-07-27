@@ -126,7 +126,16 @@ test = pd.read_csv('splits/test.csv')
 
 FineViP is intended for research on visual privacy understanding, privacy risk measurement, privacy-preserving machine learning, and image privacy protection. Please use the dataset responsibly.
 
-Do not use FineViP for identifying, profiling, tracking, surveilling, or re-identifying individuals. When downloading images through URLs, researchers are responsible for respecting the terms, licenses, and availability of the original image sources.
+FineViP should not be used for identifying, profiling, tracking, surveilling, or re-identifying individuals. Researchers are responsible for complying with applicable laws, ethical guidelines, and the terms of the original image sources when accessing images through provided URLs.
+
+## License
+
+FineViP annotations, taxonomy, and related resources are released under the 
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+You are free to share and adapt these resources for non-commercial purposes, provided that appropriate attribution is given and derivative works are distributed under the same license.
+
+The original images are not redistributed by FineViP and remain subject to the licenses and terms of their respective sources.
 
 ## Citation
 
